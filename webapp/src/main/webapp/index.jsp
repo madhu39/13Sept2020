@@ -5,3 +5,4 @@
 <h1> Successfully configured the Docker with Jenkins.  </h1>
 <h2> Run the docker command to create a container from the Jenkins tool. </h2>
 <h4> Now we have successfully setup the ansible with docker and jenkins. </h4>
+<h2> The ansible is successfully integrated with jenkins & docker application. </h2>
