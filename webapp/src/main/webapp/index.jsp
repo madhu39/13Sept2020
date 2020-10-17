@@ -3,5 +3,5 @@
 <h3> Succesfully configured the Docker </h3>
 <h2> Today on 17th Oct 2020, Tejas watching IPC playing between RCB & RR </h2>
 <h1> Successfully configured the Docker with Jenkins.  </h1>
-
+<h2> Run the docker command to create a container from the Jenkins tool. </h2>
 
