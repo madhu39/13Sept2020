@@ -3,4 +3,4 @@
 <h3> Succesfully configured the Docker </h3>
 <h2> Kubernetes has been setup with ansile & docker successfully on 18th Oct 2020. </h2>
 <h3> Now setup done successfully for tomcat with jenkins. </h3>
-
+<h2> Poll SCM option has been activated on Jenkins to start the build automatically. </h2>
