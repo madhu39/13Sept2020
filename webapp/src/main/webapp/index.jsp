@@ -4,3 +4,4 @@
 <h2> Poll SCM configured to run the build for every one minute </h2>
 <h1> At last, configured the Docker successfully </h1>
 <h2> On 28th Nov 2020, I have comppleted the docker configuration with Jenkin successfully </h2>
+<h3> On 29th Nov 2020, successfully completed integration of Ansible with Jenkin. </h3>
